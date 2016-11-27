@@ -13,16 +13,6 @@
 		01FA84AE126F70610003B7A8 /* tranmerc.c in Sources */ = {isa = PBXBuildFile; fileRef = 01FA84A5126F70610003B7A8 /* tranmerc.c */; };
 		01FA84AF126F70610003B7A8 /* ups.c in Sources */ = {isa = PBXBuildFile; fileRef = 01FA84A7126F70610003B7A8 /* ups.c */; };
 		01FA84B0126F70610003B7A8 /* utm.c in Sources */ = {isa = PBXBuildFile; fileRef = 01FA84A9126F70610003B7A8 /* utm.c */; };
-		01FA850E126F75BB0003B7A8 /* alpha1_keyboard_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8504126F75BB0003B7A8 /* alpha1_keyboard_disabled.png */; };
-		01FA850F126F75BB0003B7A8 /* alpha1_keyboard_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8505126F75BB0003B7A8 /* alpha1_keyboard_normal.png */; };
-		01FA8510126F75BB0003B7A8 /* alpha1_keyboard_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8506126F75BB0003B7A8 /* alpha1_keyboard_pressed.png */; };
-		01FA8511126F75BB0003B7A8 /* alpha2_keyboard_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8507126F75BB0003B7A8 /* alpha2_keyboard_disabled.png */; };
-		01FA8512126F75BB0003B7A8 /* alpha2_keyboard_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8508126F75BB0003B7A8 /* alpha2_keyboard_normal.png */; };
-		01FA8513126F75BB0003B7A8 /* alpha2_keyboard_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA8509126F75BB0003B7A8 /* alpha2_keyboard_pressed.png */; };
-		01FA8514126F75BB0003B7A8 /* bg_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA850A126F75BB0003B7A8 /* bg_normal.png */; };
-		01FA8515126F75BB0003B7A8 /* numeric_keyboard_disabled.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA850B126F75BB0003B7A8 /* numeric_keyboard_disabled.png */; };
-		01FA8516126F75BB0003B7A8 /* numeric_keyboard_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA850C126F75BB0003B7A8 /* numeric_keyboard_normal.png */; };
-		01FA8517126F75BB0003B7A8 /* numeric_keyboard_pressed.png in Resources */ = {isa = PBXBuildFile; fileRef = 01FA850D126F75BB0003B7A8 /* numeric_keyboard_pressed.png */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
@@ -211,16 +201,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01FA850E126F75BB0003B7A8 /* alpha1_keyboard_disabled.png in Resources */,
-				01FA850F126F75BB0003B7A8 /* alpha1_keyboard_normal.png in Resources */,
-				01FA8510126F75BB0003B7A8 /* alpha1_keyboard_pressed.png in Resources */,
-				01FA8511126F75BB0003B7A8 /* alpha2_keyboard_disabled.png in Resources */,
-				01FA8512126F75BB0003B7A8 /* alpha2_keyboard_normal.png in Resources */,
-				01FA8513126F75BB0003B7A8 /* alpha2_keyboard_pressed.png in Resources */,
-				01FA8514126F75BB0003B7A8 /* bg_normal.png in Resources */,
-				01FA8515126F75BB0003B7A8 /* numeric_keyboard_disabled.png in Resources */,
-				01FA8516126F75BB0003B7A8 /* numeric_keyboard_normal.png in Resources */,
-				01FA8517126F75BB0003B7A8 /* numeric_keyboard_pressed.png in Resources */,
 				017043551270CC750089DF14 /* mgrs57.png in Resources */,
 				8120F2E616E106BA00606A79 /* Default-568h@2x.png in Resources */,
 			);
